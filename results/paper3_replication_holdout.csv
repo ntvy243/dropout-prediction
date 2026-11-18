@@ -1,0 +1,5 @@
+model,accuracy,macro_f1,f1_Dropout,f1_Enrolled,f1_Graduate,recall_Enrolled
+Paper LR,0.76836,0.6826,0.77996,0.40769,0.86015,0.33333
+Paper RF,0.75932,0.71153,0.76952,0.51873,0.84633,0.56604
+Paper XGB,0.76045,0.70075,0.76951,0.48684,0.8459,0.46541
+OURS v1 (current ensemble),0.75141,0.70774,0.76262,0.52078,0.83982,0.59119

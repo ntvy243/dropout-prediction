@@ -1,0 +1,30 @@
+  config  oof_accuracy  macro_f1  f1_Enrolled
+0     v1        0.7771    0.7327       0.5464
+1     v2        0.7875    0.7322       0.5281
+holdout seed 42 13s
+holdout seed 0 26s
+holdout seed 1 38s
+holdout seed 2 51s
+holdout seed 3 63s
+holdout seed 4 76s
+holdout seed 5 88s
+holdout seed 6 100s
+holdout seed 7 113s
+holdout seed 8 126s
+holdout seed 9 139s
+cv fold 0 151s
+cv fold 1 164s
+cv fold 2 177s
+cv fold 3 189s
+cv fold 4 201s
+cv fold 5 214s
+cv fold 6 226s
+cv fold 7 238s
+cv fold 8 251s
+cv fold 9 263s
+cv fold 10 276s
+cv fold 11 289s
+cv fold 12 302s
+cv fold 13 315s
+cv fold 14 327s
+done

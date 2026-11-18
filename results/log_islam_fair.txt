@@ -1,0 +1,27 @@
+holdout 42 6s
+holdout 0 11s
+holdout 1 16s
+holdout 2 22s
+holdout 3 27s
+holdout 4 33s
+holdout 5 38s
+holdout 6 44s
+holdout 7 49s
+holdout 8 54s
+holdout 9 59s
+cv 0 65s
+cv 1 70s
+cv 2 76s
+cv 3 81s
+cv 4 87s
+cv 5 92s
+cv 6 97s
+cv 7 103s
+cv 8 108s
+cv 9 113s
+cv 10 118s
+cv 11 124s
+cv 12 129s
+cv 13 134s
+cv 14 139s
+done

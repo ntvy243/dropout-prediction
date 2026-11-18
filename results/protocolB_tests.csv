@@ -1,0 +1,8 @@
+model,metric,mean_diff,p_value,wins,splits
+Ours: ensemble (same 28 features),accuracy,-0.004670433145009415,0.011136377232686174,9.0,30
+Ours: ensemble (same 28 features),macro_f1,0.028900732301074667,5.007575284107001e-14,29.0,30
+Ours: ensemble (same 28 features),f1_Enrolled,0.09520064384606573,1.1928382417573433e-17,30.0,30
+Ours: ensemble (+engineered features),accuracy,0.0015065913370998052,0.22865939210592473,18.0,30
+Ours: ensemble (+engineered features),macro_f1,0.03598121283228057,1.2011930507666122e-17,30.0,30
+Ours: ensemble (+engineered features),f1_Enrolled,0.10426861028744011,1.888619581888997e-18,30.0,30
+Paper 2 Random Forest (re-run),splits above reported 0.8057,0.0,,,30

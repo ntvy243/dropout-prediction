@@ -1,0 +1,26 @@
+ExtraTrees (sqrt)        CV acc 0.8325
+ExtraTrees (0.5)         CV acc 0.8285
+Random Forest            CV acc 0.8246
+kNN k=1                  CV acc 0.7759
+kNN k=5 (distance)       CV acc 0.7687
+LightGBM (63 leaves)     CV acc 0.8432
+CatBoost (depth 8)       CV acc 0.8357
+XGBoost (depth 8)        CV acc 0.8402
+XGBoost paper default    CV acc 0.8315
+ensemble members: ['LightGBM (63 leaves)', 'XGBoost (depth 8)', 'CatBoost (depth 8)']
+0 {'XGBoost paper default': 0.8446, 'LightGBM (63 leaves)': 0.8597, 'XGBoost (depth 8)': 0.8499, 'CatBoost (depth 8)': 0.8507, 'ENSEMBLE top-3 (ours)': 0.8575}
+1 {'XGBoost paper default': 0.8198, 'LightGBM (63 leaves)': 0.8439, 'XGBoost (depth 8)': 0.8348, 'CatBoost (depth 8)': 0.8386, 'ENSEMBLE top-3 (ours)': 0.8401}
+2 {'XGBoost paper default': 0.8416, 'LightGBM (63 leaves)': 0.8529, 'XGBoost (depth 8)': 0.8454, 'CatBoost (depth 8)': 0.8514, 'ENSEMBLE top-3 (ours)': 0.8529}
+3 {'XGBoost paper default': 0.8205, 'LightGBM (63 leaves)': 0.8499, 'XGBoost (depth 8)': 0.8394, 'CatBoost (depth 8)': 0.8356, 'ENSEMBLE top-3 (ours)': 0.8454}
+4 {'XGBoost paper default': 0.8409, 'LightGBM (63 leaves)': 0.8514, 'XGBoost (depth 8)': 0.8424, 'CatBoost (depth 8)': 0.8379, 'ENSEMBLE top-3 (ours)': 0.8446}
+5 {'XGBoost paper default': 0.8258, 'LightGBM (63 leaves)': 0.8326, 'XGBoost (depth 8)': 0.8311, 'CatBoost (depth 8)': 0.8386, 'ENSEMBLE top-3 (ours)': 0.8318}
+6 {'XGBoost paper default': 0.8416, 'LightGBM (63 leaves)': 0.8673, 'XGBoost (depth 8)': 0.8544, 'CatBoost (depth 8)': 0.8582, 'ENSEMBLE top-3 (ours)': 0.865}
+7 {'XGBoost paper default': 0.862, 'LightGBM (63 leaves)': 0.8665, 'XGBoost (depth 8)': 0.8695, 'CatBoost (depth 8)': 0.8582, 'ENSEMBLE top-3 (ours)': 0.8688}
+8 {'XGBoost paper default': 0.819, 'LightGBM (63 leaves)': 0.8363, 'XGBoost (depth 8)': 0.8235, 'CatBoost (depth 8)': 0.8333, 'ENSEMBLE top-3 (ours)': 0.8333}
+9 {'XGBoost paper default': 0.8446, 'LightGBM (63 leaves)': 0.8522, 'XGBoost (depth 8)': 0.8567, 'CatBoost (depth 8)': 0.8514, 'ENSEMBLE top-3 (ours)': 0.8552}
+                   model  mean_accuracy  std_accuracy  mean_macro_f1  mean_f1_Enrolled  diff_vs_0_83  p_vs_0_83  diff_vs_paper_model  paired_p  wins  seeds
+0  XGBoost paper default         0.8360        0.0142         0.8358            0.8158        0.0060     0.2103                  NaN       NaN   NaN    NaN
+1   LightGBM (63 leaves)         0.8513        0.0115         0.8513            0.8376        0.0213     0.0002               0.0152    0.0004  10.0   10.0
+2      XGBoost (depth 8)         0.8447        0.0135         0.8446            0.8277        0.0147     0.0074               0.0087    0.0009  10.0   10.0
+3     CatBoost (depth 8)         0.8454        0.0095         0.8454            0.8306        0.0154     0.0006               0.0094    0.0045   8.0   10.0
+4  ENSEMBLE top-3 (ours)         0.8495        0.0126         0.8495            0.8358        0.0195     0.0008               0.0134    0.0003  10.0   10.0

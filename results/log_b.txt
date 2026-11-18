@@ -1,0 +1,47 @@
+0 {'Paper 2 Random Forest': 0.8045, 'Paper 2 AdaBoost': 0.7593, 'Paper 2 SVM': 0.7808, 'Paper 2 Decision Tree': 0.678, 'Paper 2 KNN': 0.7232, 'Ours: ensemble (same 28 features)': 0.7853, 'Ours: ensemble (+engineered features)': 0.7977}
+1 {'Paper 2 Random Forest': 0.7853, 'Paper 2 AdaBoost': 0.7548, 'Paper 2 SVM': 0.7616, 'Paper 2 Decision Tree': 0.6814, 'Paper 2 KNN': 0.7028, 'Ours: ensemble (same 28 features)': 0.7853, 'Ours: ensemble (+engineered features)': 0.7898}
+2 {'Paper 2 Random Forest': 0.7729, 'Paper 2 AdaBoost': 0.7435, 'Paper 2 SVM': 0.7559, 'Paper 2 Decision Tree': 0.6859, 'Paper 2 KNN': 0.7096, 'Ours: ensemble (same 28 features)': 0.7672, 'Ours: ensemble (+engineered features)': 0.7684}
+3 {'Paper 2 Random Forest': 0.7842, 'Paper 2 AdaBoost': 0.7525, 'Paper 2 SVM': 0.765, 'Paper 2 Decision Tree': 0.6791, 'Paper 2 KNN': 0.7096, 'Ours: ensemble (same 28 features)': 0.7785, 'Ours: ensemble (+engineered features)': 0.7785}
+4 {'Paper 2 Random Forest': 0.7831, 'Paper 2 AdaBoost': 0.7503, 'Paper 2 SVM': 0.7898, 'Paper 2 Decision Tree': 0.7051, 'Paper 2 KNN': 0.7209, 'Ours: ensemble (same 28 features)': 0.791, 'Ours: ensemble (+engineered features)': 0.7864}
+5 {'Paper 2 Random Forest': 0.7944, 'Paper 2 AdaBoost': 0.7831, 'Paper 2 SVM': 0.7808, 'Paper 2 Decision Tree': 0.7096, 'Paper 2 KNN': 0.7243, 'Ours: ensemble (same 28 features)': 0.8011, 'Ours: ensemble (+engineered features)': 0.7932}
+6 {'Paper 2 Random Forest': 0.7627, 'Paper 2 AdaBoost': 0.7424, 'Paper 2 SVM': 0.7718, 'Paper 2 Decision Tree': 0.6701, 'Paper 2 KNN': 0.696, 'Ours: ensemble (same 28 features)': 0.7503, 'Ours: ensemble (+engineered features)': 0.7582}
+7 {'Paper 2 Random Forest': 0.7763, 'Paper 2 AdaBoost': 0.7706, 'Paper 2 SVM': 0.7808, 'Paper 2 Decision Tree': 0.6915, 'Paper 2 KNN': 0.7198, 'Ours: ensemble (same 28 features)': 0.7446, 'Ours: ensemble (+engineered features)': 0.7729}
+8 {'Paper 2 Random Forest': 0.7548, 'Paper 2 AdaBoost': 0.7548, 'Paper 2 SVM': 0.7559, 'Paper 2 Decision Tree': 0.6723, 'Paper 2 KNN': 0.7141, 'Ours: ensemble (same 28 features)': 0.7582, 'Ours: ensemble (+engineered features)': 0.7559}
+9 {'Paper 2 Random Forest': 0.7751, 'Paper 2 AdaBoost': 0.7503, 'Paper 2 SVM': 0.7638, 'Paper 2 Decision Tree': 0.6881, 'Paper 2 KNN': 0.7254, 'Ours: ensemble (same 28 features)': 0.774, 'Ours: ensemble (+engineered features)': 0.7853}
+10 {'Paper 2 Random Forest': 0.7446, 'Paper 2 AdaBoost': 0.7288, 'Paper 2 SVM': 0.7333, 'Paper 2 Decision Tree': 0.687, 'Paper 2 KNN': 0.6746, 'Ours: ensemble (same 28 features)': 0.748, 'Ours: ensemble (+engineered features)': 0.7492}
+11 {'Paper 2 Random Forest': 0.791, 'Paper 2 AdaBoost': 0.7435, 'Paper 2 SVM': 0.7785, 'Paper 2 Decision Tree': 0.6938, 'Paper 2 KNN': 0.7164, 'Ours: ensemble (same 28 features)': 0.7785, 'Ours: ensemble (+engineered features)': 0.7921}
+12 {'Paper 2 Random Forest': 0.7684, 'Paper 2 AdaBoost': 0.7537, 'Paper 2 SVM': 0.7797, 'Paper 2 Decision Tree': 0.6927, 'Paper 2 KNN': 0.7209, 'Ours: ensemble (same 28 features)': 0.7638, 'Ours: ensemble (+engineered features)': 0.7842}
+13 {'Paper 2 Random Forest': 0.7944, 'Paper 2 AdaBoost': 0.7559, 'Paper 2 SVM': 0.7706, 'Paper 2 Decision Tree': 0.7062, 'Paper 2 KNN': 0.7198, 'Ours: ensemble (same 28 features)': 0.7842, 'Ours: ensemble (+engineered features)': 0.7944}
+14 {'Paper 2 Random Forest': 0.7819, 'Paper 2 AdaBoost': 0.7559, 'Paper 2 SVM': 0.7729, 'Paper 2 Decision Tree': 0.6904, 'Paper 2 KNN': 0.7175, 'Ours: ensemble (same 28 features)': 0.7864, 'Ours: ensemble (+engineered features)': 0.7876}
+15 {'Paper 2 Random Forest': 0.7458, 'Paper 2 AdaBoost': 0.7311, 'Paper 2 SVM': 0.7345, 'Paper 2 Decision Tree': 0.6757, 'Paper 2 KNN': 0.6847, 'Ours: ensemble (same 28 features)': 0.7458, 'Ours: ensemble (+engineered features)': 0.7492}
+16 {'Paper 2 Random Forest': 0.7955, 'Paper 2 AdaBoost': 0.7695, 'Paper 2 SVM': 0.7921, 'Paper 2 Decision Tree': 0.6859, 'Paper 2 KNN': 0.7277, 'Ours: ensemble (same 28 features)': 0.7819, 'Ours: ensemble (+engineered features)': 0.7989}
+17 {'Paper 2 Random Forest': 0.7559, 'Paper 2 AdaBoost': 0.7322, 'Paper 2 SVM': 0.7503, 'Paper 2 Decision Tree': 0.6949, 'Paper 2 KNN': 0.6972, 'Ours: ensemble (same 28 features)': 0.7401, 'Ours: ensemble (+engineered features)': 0.7525}
+18 {'Paper 2 Random Forest': 0.7853, 'Paper 2 AdaBoost': 0.7525, 'Paper 2 SVM': 0.7819, 'Paper 2 Decision Tree': 0.6915, 'Paper 2 KNN': 0.7096, 'Ours: ensemble (same 28 features)': 0.7819, 'Ours: ensemble (+engineered features)': 0.7876}
+19 {'Paper 2 Random Forest': 0.7898, 'Paper 2 AdaBoost': 0.7525, 'Paper 2 SVM': 0.7921, 'Paper 2 Decision Tree': 0.6768, 'Paper 2 KNN': 0.7175, 'Ours: ensemble (same 28 features)': 0.7842, 'Ours: ensemble (+engineered features)': 0.7944}
+20 {'Paper 2 Random Forest': 0.765, 'Paper 2 AdaBoost': 0.7503, 'Paper 2 SVM': 0.7672, 'Paper 2 Decision Tree': 0.6621, 'Paper 2 KNN': 0.7085, 'Ours: ensemble (same 28 features)': 0.7593, 'Ours: ensemble (+engineered features)': 0.765}
+21 {'Paper 2 Random Forest': 0.7684, 'Paper 2 AdaBoost': 0.7503, 'Paper 2 SVM': 0.765, 'Paper 2 Decision Tree': 0.6633, 'Paper 2 KNN': 0.713, 'Ours: ensemble (same 28 features)': 0.7797, 'Ours: ensemble (+engineered features)': 0.7582}
+22 {'Paper 2 Random Forest': 0.7672, 'Paper 2 AdaBoost': 0.7141, 'Paper 2 SVM': 0.748, 'Paper 2 Decision Tree': 0.6927, 'Paper 2 KNN': 0.6915, 'Ours: ensemble (same 28 features)': 0.7469, 'Ours: ensemble (+engineered features)': 0.7729}
+23 {'Paper 2 Random Forest': 0.7842, 'Paper 2 AdaBoost': 0.7435, 'Paper 2 SVM': 0.7661, 'Paper 2 Decision Tree': 0.6723, 'Paper 2 KNN': 0.7107, 'Ours: ensemble (same 28 features)': 0.7751, 'Ours: ensemble (+engineered features)': 0.7706}
+24 {'Paper 2 Random Forest': 0.7627, 'Paper 2 AdaBoost': 0.7379, 'Paper 2 SVM': 0.7503, 'Paper 2 Decision Tree': 0.6644, 'Paper 2 KNN': 0.6938, 'Ours: ensemble (same 28 features)': 0.7638, 'Ours: ensemble (+engineered features)': 0.774}
+25 {'Paper 2 Random Forest': 0.7672, 'Paper 2 AdaBoost': 0.7379, 'Paper 2 SVM': 0.7797, 'Paper 2 Decision Tree': 0.6802, 'Paper 2 KNN': 0.7062, 'Ours: ensemble (same 28 features)': 0.7729, 'Ours: ensemble (+engineered features)': 0.7627}
+26 {'Paper 2 Random Forest': 0.7898, 'Paper 2 AdaBoost': 0.7582, 'Paper 2 SVM': 0.7751, 'Paper 2 Decision Tree': 0.7164, 'Paper 2 KNN': 0.7209, 'Ours: ensemble (same 28 features)': 0.7921, 'Ours: ensemble (+engineered features)': 0.7966}
+27 {'Paper 2 Random Forest': 0.7808, 'Paper 2 AdaBoost': 0.7469, 'Paper 2 SVM': 0.7695, 'Paper 2 Decision Tree': 0.6847, 'Paper 2 KNN': 0.7141, 'Ours: ensemble (same 28 features)': 0.7797, 'Ours: ensemble (+engineered features)': 0.7842}
+28 {'Paper 2 Random Forest': 0.7842, 'Paper 2 AdaBoost': 0.7593, 'Paper 2 SVM': 0.7672, 'Paper 2 Decision Tree': 0.678, 'Paper 2 KNN': 0.7232, 'Ours: ensemble (same 28 features)': 0.7785, 'Ours: ensemble (+engineered features)': 0.7989}
+29 {'Paper 2 Random Forest': 0.7616, 'Paper 2 AdaBoost': 0.7232, 'Paper 2 SVM': 0.7571, 'Paper 2 Decision Tree': 0.6531, 'Paper 2 KNN': 0.7107, 'Ours: ensemble (same 28 features)': 0.7582, 'Ours: ensemble (+engineered features)': 0.7627}
+                                       accuracy_mean  accuracy_std  macro_f1_mean  macro_f1_std  f1_Enrolled_mean  f1_Enrolled_std
+model                                                                                                                             
+Ours: ensemble (+engineered features)         0.7774        0.0161         0.7327        0.0186            0.5469           0.0351
+Ours: ensemble (same 28 features)             0.7712        0.0163         0.7256        0.0179            0.5378           0.0335
+Paper 2 AdaBoost                              0.7486        0.0142         0.6530        0.0148            0.3517           0.0364
+Paper 2 Decision Tree                         0.6841        0.0146         0.6224        0.0155            0.3807           0.0272
+Paper 2 KNN                                   0.7108        0.0128         0.6209        0.0166            0.3199           0.0366
+Paper 2 Random Forest                         0.7759        0.0152         0.6967        0.0192            0.4426           0.0436
+Paper 2 SVM                                   0.7679        0.0151         0.6856        0.0188            0.4213           0.0363
+                                   model                        metric  mean_diff  p_value  wins  splits
+0      Ours: ensemble (same 28 features)                      accuracy    -0.0047   0.0111   9.0      30
+1      Ours: ensemble (same 28 features)                      macro_f1     0.0289   0.0000  29.0      30
+2      Ours: ensemble (same 28 features)                   f1_Enrolled     0.0952   0.0000  30.0      30
+3  Ours: ensemble (+engineered features)                      accuracy     0.0015   0.2287  18.0      30
+4  Ours: ensemble (+engineered features)                      macro_f1     0.0360   0.0000  30.0      30
+5  Ours: ensemble (+engineered features)                   f1_Enrolled     0.1043   0.0000  30.0      30
+6         Paper 2 Random Forest (re-run)  splits above reported 0.8057     0.0000      NaN   NaN      30

@@ -1,0 +1,24 @@
+train (3539, 36) test (885, 36) test class counts [284 159 442]
+best tuning macro-F1 0.7243 sqrt {'n_estimators': 482, 'learning_rate': 0.01904409071471994, 'num_leaves': 13, 'max_depth': 4, 'min_child_samples': 9, 'subsample': 0.9017024984785286, 'colsample_bytree': 0.7409751016348853, 'reg_lambda': 0.021805363370883207, 'reg_alpha': 0.1620410333484664, 'min_split_gain': 0.09312175246023}
+hold-out: {'accuracy': 0.7548, 'macro_f1': np.float64(0.713), 'f1_Enrolled': np.float64(0.5337), 'recall_Enrolled': np.float64(0.6226)} | paper method: {'accuracy': 0.7458, 'macro_f1': np.float64(0.6895), 'f1_Enrolled': np.float64(0.4889), 'recall_Enrolled': np.float64(0.4843)} | McNemar p 0.445
+fold 1
+fold 2
+fold 3
+fold 4
+fold 5
+fold 6
+fold 7
+fold 8
+fold 9
+fold 10
+        metric  mean_diff  corrected_t  corrected_p  naive_p  wins  folds
+0     accuracy     0.0024       0.5785       0.5771   0.3073     6     10
+1     macro_f1     0.0194       4.3606       0.0018   0.0000    10     10
+2  f1_Enrolled     0.0538       4.9944       0.0007   0.0000    10     10
+        variable          group    n  accuracy  macro_f1  recall_Dropout  recall_Enrolled
+0         Gender         Female  570     0.775     0.723           0.705            0.624
+1         Gender           Male  315     0.717     0.689           0.690            0.621
+2      Displaced  Not displaced  401     0.768     0.727           0.765            0.606
+3      Displaced      Displaced  484     0.744     0.696           0.622            0.636
+4  International       Domestic  861     0.757     0.715           0.702            0.622
+5  International  International   24     0.667     0.639           0.556            0.667
