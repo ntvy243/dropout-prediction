@@ -1,0 +1,9 @@
+subject,grades,target,v2_acc,v1_acc,best_kesgin,accuracy_diff,accuracy_p,macro_f1_diff,macro_f1_p,macroF1_v2
+mat,G1+G2 excluded,binary,0.68608,0.67173,Random Forest 0.689,-0.00338,0.87317,0.0294,0.17438,0.61995
+mat,G1+G2 excluded,five,0.32236,0.32236,Random Forest 0.342,-0.01941,0.40941,-0.00375,0.8837,0.26566
+mat,G1+G2 included,binary,0.91224,0.91224,Logistic Regression 0.921,-0.00844,0.63874,-0.01063,0.58759,0.90141
+mat,G1+G2 included,five,0.73755,0.7384,XGBoost 0.723,0.01435,0.41854,0.01707,0.40329,0.7142
+por,G1+G2 excluded,binary,0.85002,0.84437,Random Forest 0.850,0.00052,0.95877,0.03563,0.1929,0.6692
+por,G1+G2 excluded,five,0.36365,0.36212,Random Forest 0.351,0.01282,0.50339,0.01296,0.50441,0.34586
+por,G1+G2 included,binary,0.9276,0.92656,Random Forest 0.928,-0.0005,0.95383,0.00202,0.90478,0.85832
+por,G1+G2 included,five,0.72733,0.71963,Random Forest 0.721,0.00669,0.70911,0.01371,0.45082,0.7226

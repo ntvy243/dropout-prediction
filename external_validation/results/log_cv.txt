@@ -1,0 +1,9 @@
+mat True binary 53s
+mat True five 150s
+mat False binary 203s
+mat False five 304s
+por True binary 365s
+por True five 477s
+por False binary 541s
+por False five 663s
+done
